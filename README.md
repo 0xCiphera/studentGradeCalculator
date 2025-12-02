@@ -8,4 +8,4 @@ I developed a Student Grading application that automates the calculation of curr
 - Each assignment grade expressed as an integer value, 0-100, where 100 represents 100% correct.
 - Final scores are calculated as an average of the five assignment scores.
 - It performs basic math operations to calculate the final grades for each student.
-- It output/display each student’s name and final score.
+- It outputs/displays each student’s name and final score.
