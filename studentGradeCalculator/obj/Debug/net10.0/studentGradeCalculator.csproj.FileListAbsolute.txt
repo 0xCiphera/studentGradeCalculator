@@ -1,0 +1,15 @@
+C:\Users\Tobi\Documents\Tomiwa_documents\Dev-Folder\Csharp Learn\StudentGradeCalculator\studentGradeCalculator\bin\Debug\net10.0\studentGradeCalculator.exe
+C:\Users\Tobi\Documents\Tomiwa_documents\Dev-Folder\Csharp Learn\StudentGradeCalculator\studentGradeCalculator\bin\Debug\net10.0\studentGradeCalculator.deps.json
+C:\Users\Tobi\Documents\Tomiwa_documents\Dev-Folder\Csharp Learn\StudentGradeCalculator\studentGradeCalculator\bin\Debug\net10.0\studentGradeCalculator.runtimeconfig.json
+C:\Users\Tobi\Documents\Tomiwa_documents\Dev-Folder\Csharp Learn\StudentGradeCalculator\studentGradeCalculator\bin\Debug\net10.0\studentGradeCalculator.dll
+C:\Users\Tobi\Documents\Tomiwa_documents\Dev-Folder\Csharp Learn\StudentGradeCalculator\studentGradeCalculator\bin\Debug\net10.0\studentGradeCalculator.pdb
+C:\Users\Tobi\Documents\Tomiwa_documents\Dev-Folder\Csharp Learn\StudentGradeCalculator\studentGradeCalculator\obj\Debug\net10.0\studentGradeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tobi\Documents\Tomiwa_documents\Dev-Folder\Csharp Learn\StudentGradeCalculator\studentGradeCalculator\obj\Debug\net10.0\studentGradeCalculator.AssemblyInfoInputs.cache
+C:\Users\Tobi\Documents\Tomiwa_documents\Dev-Folder\Csharp Learn\StudentGradeCalculator\studentGradeCalculator\obj\Debug\net10.0\studentGradeCalculator.AssemblyInfo.cs
+C:\Users\Tobi\Documents\Tomiwa_documents\Dev-Folder\Csharp Learn\StudentGradeCalculator\studentGradeCalculator\obj\Debug\net10.0\studentGradeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Tobi\Documents\Tomiwa_documents\Dev-Folder\Csharp Learn\StudentGradeCalculator\studentGradeCalculator\obj\Debug\net10.0\studentGradeCalculator.sourcelink.json
+C:\Users\Tobi\Documents\Tomiwa_documents\Dev-Folder\Csharp Learn\StudentGradeCalculator\studentGradeCalculator\obj\Debug\net10.0\studentGradeCalculator.dll
+C:\Users\Tobi\Documents\Tomiwa_documents\Dev-Folder\Csharp Learn\StudentGradeCalculator\studentGradeCalculator\obj\Debug\net10.0\refint\studentGradeCalculator.dll
+C:\Users\Tobi\Documents\Tomiwa_documents\Dev-Folder\Csharp Learn\StudentGradeCalculator\studentGradeCalculator\obj\Debug\net10.0\studentGradeCalculator.pdb
+C:\Users\Tobi\Documents\Tomiwa_documents\Dev-Folder\Csharp Learn\StudentGradeCalculator\studentGradeCalculator\obj\Debug\net10.0\studentGradeCalculator.genruntimeconfig.cache
+C:\Users\Tobi\Documents\Tomiwa_documents\Dev-Folder\Csharp Learn\StudentGradeCalculator\studentGradeCalculator\obj\Debug\net10.0\ref\studentGradeCalculator.dll
